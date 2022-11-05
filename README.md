@@ -3,6 +3,7 @@
 # Para baixar para Internet das Coisas 
 
 * [Instalar o app iot mqtt panel com o icone da "casinha"](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en&gl=US)
+![](https://play-lh.googleusercontent.com/_qiWueyBkfbnlJC6KmxqTHl_G0zkxYbl-LprfMKkrUcJ9AX_Sm0DlDRWm8lgQICzQdI)
 
 # Material (slides e videos)
 
