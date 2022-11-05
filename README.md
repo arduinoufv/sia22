@@ -3,7 +3,7 @@
 # Para baixar para Internet das Coisas 
 
 * [Instalar o app iot mqtt panel com o icone da "casinha"](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en&gl=US)
-* <img src="[https://camo.githubusercontent.com/...](https://play-lh.googleusercontent.com/_qiWueyBkfbnlJC6KmxqTHl_G0zkxYbl-LprfMKkrUcJ9AX_Sm0DlDRWm8lgQICzQd)"  width="200" height="400" />
+* <img src="[https://camo.githubusercontent.com/...](https://play-lh.googleusercontent.com/_qiWueyBkfbnlJC6KmxqTHl_G0zkxYbl-LprfMKkrUcJ9AX_Sm0DlDRWm8lgQICzQd"  width="200" height="400" />
 # Material (slides e videos)
 
 * [slides Inteligencia Artificial](https://docs.google.com/presentation/d/1Du2m6hLKW08R_6enBogVNxTKXGRfLwJH3ishY3i-aX0/edit?usp=sharing)
