@@ -1,4 +1,4 @@
-[gradio](https://fdd966f94b1d647f.gradio.app)
+[gradio](https://a93794362bdaa609.gradio.app)
 
 # UFV SIA 2022 Iot, IA, and ML
 
