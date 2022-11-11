@@ -12,6 +12,7 @@
 * [Instalar o app iot mqtt panel com o icone da "casinha"](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod&hl=en&gl=US) <img src="https://play-lh.googleusercontent.com/_qiWueyBkfbnlJC6KmxqTHl_G0zkxYbl-LprfMKkrUcJ9AX_Sm0DlDRWm8lgQICzQdI"  width="100"  />
 # Material (slides e videos)
 * [slides Internet das Coisas IoT](https://docs.google.com/presentation/d/16UEAjpudF6NpSpzFjsL-hEPSsxceBkUJ-43t3ZM4mVA/edit?usp=sharing)
+* [Playlist de videos com as demonstrações - só contem a tela do Notebook,slides e codigo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nq6rpi-KOM0JKkZAO63gj_)
 
 
 
